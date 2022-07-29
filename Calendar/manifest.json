@@ -1,0 +1,10 @@
+{
+  "name": "Calendar Extensions",
+  "description" : "calendar",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "calendar.html",
+    "default_icon": "calendar.png"
+  }
+}
