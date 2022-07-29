@@ -1,6 +1,10 @@
+body {
+  text-align: center;
+}
+
 #calendar {
-  display: flex;
-  flex-wrap: wrap;
+  display: inline-flex;
+  /*flex-wrap: wrap;*/
 }
 
 section {
@@ -12,6 +16,7 @@ h1 {
 }
 
 table {
+  margin: 0 auto;
   border-spacing: 0;
   border-collapse: collapse;
 }
